@@ -36,3 +36,22 @@ while (kotobar < 14)
     console.log("EID MUBARAK");
     kotobar++;
 }
+
+
+// Print Odd number
+
+var num = 1;
+while (num <= 30)
+{
+    console.log(num);
+    num = num + 2;
+}
+
+
+// Print even number
+var num2 = 0;
+while (num2 <= 20)
+{
+    console.log(num2);
+    num2 = num2 + 2;
+}
