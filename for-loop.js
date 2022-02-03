@@ -47,3 +47,26 @@ for (var i = 1; i <= 100; i++)
 {
     joogfol = joogfol + i;
 }
+
+var items = ["Vasline", "Pen", "Speaker", "Book", "Mobile"];
+
+for (var i = 0; i < items.length; i++)
+{
+    var item = items[i];
+    console.log(item);
+}
+
+var girls = ["Urmi", "Sharmin", "Sejuti", "Shraboni", "Ima", "Bonna", "Mysha"];
+for (var i = 0; i < girls.length; i++)
+{
+    var aGirl = girls[i];
+    console.log(aGirl, "I Love you so much");
+}
+
+
+var friends = ["Shamim", "Shahinur", "Ahsan", "Hannan", "Nasim"];
+for (var i = 0; i < friends.length; i++)
+{
+    var friend = friends[i];
+    console.log(friend, "Dost, Tui amare kisu taka dhar dena");
+}
